@@ -27,3 +27,4 @@ push:
 
 clean:
 	rm -rf kbot
+>>>>>>> 16a1d325fc9f3c1c097735a34626f32ddd86fd51
